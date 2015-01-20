@@ -1,0 +1,23 @@
+{
+  "name": "anytv-node-importer",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anyTV/anytv-node-importer.git"
+  },
+  "keywords": [
+    "Controller",
+    "importer"
+  ],
+  "author": "anyTV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyTV/anytv-node-importer/issues"
+  },
+  "homepage": "https://github.com/anyTV/anytv-node-importer"
+}
