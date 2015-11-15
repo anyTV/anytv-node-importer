@@ -1,7 +1,7 @@
 # anytv-node-importer
 
 [![Build Status](https://travis-ci.org/anyTV/anytv-node-importer.svg?branch=master)](https://travis-ci.org/anyTV/anytv-node-importer)
-[![Coverage Status](https://coveralls.io/repos/anyTV/anytv-node-importer/badge.svg?branch=master&service=github)](https://coveralls.io/github/anyTV/anytv-node-importer?branch=master)
+[![Coverage Status](https://coveralls.io/repos/anyTV/anytv-node-importer/badge.svg?branch=master&service=github&t)](https://coveralls.io/github/anyTV/anytv-node-importer?branch=master)
 [![Documentation](https://doc.esdoc.org/github.com/anyTV/anytv-node-importer/badge.svg?branch=master&service=github)](https://doc.esdoc.org/github.com/anyTV/anytv-node-importer?branch=master)
 [![Dependencies](https://david-dm.org/anyTV/anytv-node-mongo.svg)](https://david-dm.org/anyTV/anytv-node-mongo)
 [![npm version](https://badge.fury.io/js/anytv-node-importer.svg)](https://badge.fury.io/js/anytv-node-importer)
