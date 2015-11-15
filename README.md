@@ -26,7 +26,7 @@ const imports = importer.dirloadSync('./controllers');
 
 # Documentation
 
-Code documentation can be found at (https://doc.esdoc.org/github.com/anyTV/anytv-node-importer/)[https://doc.esdoc.org/github.com/anyTV/anytv-node-importer/].
+Code documentation can be found at [here](https://doc.esdoc.org/github.com/anyTV/anytv-node-importer/).
 
 
 # Contributing
