@@ -1,5 +1,7 @@
 # anytv-node-importer
 
+[![Join the chat at https://gitter.im/anyTV/anytv-node-importer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anyTV/anytv-node-importer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/anyTV/anytv-node-importer.svg?branch=master)](https://travis-ci.org/anyTV/anytv-node-importer)
 [![Coverage Status](https://coveralls.io/repos/anyTV/anytv-node-importer/badge.svg?branch=master&service=github&t)](https://coveralls.io/github/anyTV/anytv-node-importer?branch=master)
 [![Documentation](https://doc.esdoc.org/github.com/anyTV/anytv-node-importer/badge.svg?branch=master&service=github)](https://doc.esdoc.org/github.com/anyTV/anytv-node-importer?branch=master)
