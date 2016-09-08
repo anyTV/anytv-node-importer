@@ -50,7 +50,8 @@ export default class Importer {
             }
 
             files.forEach((file) => {
-                if (file.slice(-3) !== '.js') {
+                let ext = file.slice(-3);
+                if (!~['.js', '.json'].indexOf(ext)) {
                     return;
                 }
 
@@ -82,7 +83,8 @@ export default class Importer {
             while (len--) {
                 file = files[len];
 
-                if (file.slice(-3) !== '.js') {
+                let ext = file.slice(-3);
+                if (!~['.js', '.json'].indexOf(ext)) {
                     if (fs.statSync(_path + '/' + file).isDirectory()) {
                         imports[file] = {};
                         start(_path + '/' + file, imports[file]);
