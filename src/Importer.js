@@ -55,7 +55,6 @@ export default class Importer {
                     return;
                 }
 
-                file = file.slice(0, -3);
                 imports[file] = require(path + '/' + file);
             });
 
@@ -93,7 +92,6 @@ export default class Importer {
                     continue;
                 }
 
-                file = file.slice(0, -3);
                 imports[file] = require(_path + '/' + file);
             }
 
