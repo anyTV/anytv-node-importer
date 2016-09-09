@@ -55,6 +55,7 @@ export default class Importer {
                     return;
                 }
 
+                file = file.replace('.' + ext, '');
                 imports[file] = require(path + '/' + file);
             });
 
@@ -92,6 +93,7 @@ export default class Importer {
                     continue;
                 }
 
+                file = file.replace('.' + ext, '');
                 imports[file] = require(_path + '/' + file);
             }
 
